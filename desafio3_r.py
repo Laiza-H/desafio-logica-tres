@@ -19,7 +19,7 @@ class Jogo:
              ataque = "magia"
             case "monge":
              ataque = "artes marciais"
-            case "arqueiro":
+            case "ninja":
              ataque = "shuriken"
              #_ indica que qualquer outro valor que não esteja listado anteriormente     
             case _:
